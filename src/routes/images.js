@@ -32,63 +32,63 @@ export default [
 		color: '#001f3f',
 		id: '1',
 		alt: 'Crepuscular rays',
-		path: 'svelte-mocha.vercel.app/src/lib/images/image1.png',
+		path: './src/lib/images/image1.png',
 		license: BY
 	},
 	{
 		color: '#0074D9',
 		id: '2',
 		alt: 'Lapland winter scene',
-		path: 'svelte-mocha.vercel.app/src/lib/images/image2.png',
+		path: './src/lib/images/image2.png',
 		license: BY
 	},
 	{
 		color: '#7FDBFF',
 		id: '3',
 		alt: 'Jellyfish',
-		path: 'svelte-mocha.vercel.app/src/lib/images/image3.png',
+		path: './src/lib/images/image3.png',
 		license: BY
 	},
 	{
 		color: '#39CCCC',
 		id: '4',
 		alt: 'A man scuba diving',
-		path: 'svelte-mocha.vercel.app/src/lib/images/image4.png',
+		path: './src/lib/images/image4.png',
 		license: BY_SA
 	},
 	{
 		color: '#3D9970',
 		id: '5',
 		alt: 'Underwater scene',
-		path: 'svelte-mocha.vercel.app/src/lib/images/image5.png',
+		path: './src/lib/images/image5.png',
 		license: BY
 	},
 	{
 		color: '#2ECC40',
 		id: '6',
 		alt: 'Ferns',
-		path: 'svelte-mocha.vercel.app/src/lib/images/image6.png',
+		path: './src/lib/images/image6.png',
 		license: BY
 	},
 	{
 		color: '#01FF70',
 		id: '7',
 		alt: 'Posters in a bar',
-		path: 'svelte-mocha.vercel.app/src/lib/images/image7.png',
+		path: './src/lib/images/image7.png',
 		license: BY_SA
 	},
 	{
 		color: '#FFDC00',
 		id: '8',
 		alt: 'Daffodil',
-		path: 'svelte-mocha.vercel.app/src/lib/images/image8.png',
+		path: './src/lib/images/image8.png',
 		license: BY_ND
 	},
 	{
 		color: '#FF851B',
 		id: '9',
 		alt: 'Dust storm in Sydney',
-		path: 'svelte-mocha.vercel.app/src/lib/images/image9.png',
+		path: './src/lib/images/image9.png',
 		license: BY
 	},
 	{
@@ -102,14 +102,14 @@ export default [
 		color: '#85144b',
 		id: '11',
 		alt: 'Fireworks',
-		path: 'svelte-mocha.vercel.app/src/lib/images/image11.png',
+		path: './src/lib/images/image11.png',
 		license: BY_ND
 	},
 	{
 		color: '#B10DC9',
 		id: '12',
 		alt: 'The Stereophonics',
-		path: 'svelte-mocha.vercel.app/src/lib/images/image12.png',
+		path: './src/lib/images/image12.png',
 		license: BY_ND
 	}
 ];
