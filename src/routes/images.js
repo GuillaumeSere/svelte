@@ -32,84 +32,84 @@ export default [
 		color: '#001f3f',
 		id: '1',
 		alt: 'Crepuscular rays',
-		path: image1,
+		path: './src/lib/images/image1.png',
 		license: BY
 	},
 	{
 		color: '#0074D9',
 		id: '2',
 		alt: 'Lapland winter scene',
-		path: image2,
+		path: './src/lib/images/image2.png',
 		license: BY
 	},
 	{
 		color: '#7FDBFF',
 		id: '3',
 		alt: 'Jellyfish',
-		path: image3,
+		path: './src/lib/images/image3.png',
 		license: BY
 	},
 	{
 		color: '#39CCCC',
 		id: '4',
 		alt: 'A man scuba diving',
-		path: image4,
+		path: './src/lib/images/image4.png',
 		license: BY_SA
 	},
 	{
 		color: '#3D9970',
 		id: '5',
 		alt: 'Underwater scene',
-		path: image5,
+		path: './src/lib/images/image5.png',
 		license: BY
 	},
 	{
 		color: '#2ECC40',
 		id: '6',
 		alt: 'Ferns',
-		path: image6,
+		path: './src/lib/images/image6.png',
 		license: BY
 	},
 	{
 		color: '#01FF70',
 		id: '7',
 		alt: 'Posters in a bar',
-		path: image7,
+		path: './src/lib/images/image7.png',
 		license: BY_SA
 	},
 	{
 		color: '#FFDC00',
 		id: '8',
 		alt: 'Daffodil',
-		path: image8,
+		path: './src/lib/images/image8.png',
 		license: BY_ND
 	},
 	{
 		color: '#FF851B',
 		id: '9',
 		alt: 'Dust storm in Sydney',
-		path: image9,
+		path: './src/lib/images/image9.png',
 		license: BY
 	},
 	{
 		color: '#FF4136',
 		id: '10',
 		alt: 'Postbox',
-		path: image10,
+		path: './src/lib/images/image10.png',
 		license: BY
 	},
 	{
 		color: '#85144b',
 		id: '11',
 		alt: 'Fireworks',
-		path: image11,
+		path: './src/lib/images/image11.png',
 		license: BY_ND
 	},
 	{
 		color: '#B10DC9',
 		id: '12',
 		alt: 'The Stereophonics',
-		path: image12,
+		path: './src/lib/images/image12.png',
 		license: BY_ND
 	}
 ];
