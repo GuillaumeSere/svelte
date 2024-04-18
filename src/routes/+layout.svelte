@@ -48,7 +48,7 @@
                                     style="background-color: {image.color};"
                                     on:click={() => load(image)}
                                     in:receive={{ key: image.id }}
-                                    out:send={{ key: image.id }}>{loading === image ? '...' : image.id}</button
+                                    out:send={{ key: image.id }}>{loading === image ? '...' : ' '}</button
                                 >
                             {/if}
                         </div>
